@@ -1,0 +1,160 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+html,body{
+    box-sizing: border-box;
+    margin: 30px 10px;
+    font-family: Arial, "Sans Serif";
+    color: #3B4252;
+}
+
+
+header{
+    text-align: center;
+}
+
+h1.siteHeader{
+    font-size: 3em;
+}
+
+nav{
+    text-align: left;
+    margin-top: 100px;
+}
+
+nav ul li{
+    display: inline;
+}
+
+
+nav ul li{
+    padding: 5px;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+.color{
+    width: 200px;
+    margin: 5px;
+}
+
+.coolBlue{
+    display: inline-block;
+    background: #2d5dcc;
+}
+
+.beige{
+    display: inline-block;
+    background-color: #efd9ca;
+}
+
+.lightOrange{
+    display: inline-block;
+    background-color: #FFD3B5;
+}
+
+.lightPurple{
+    display: inline-block;
+    background-color: #C7CEEA;
+}
+
+.neonPink{
+    display: inline-block;
+    background-color: #FF5C8D;
+}
+
+.powderBlue{
+    display: inline-block;
+    background-color: #97B8D4;
+}
+
+.charcoalGray{
+    display: inline-block;
+    background-color: #3B4252;
+}
+
+
+.leafGreen{
+    display: inline-block;
+    background-color: #8CB369;
+}
+
+h3{
+    text-align: center;
+}
+
+
+.fontSection{
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.fontContainer{
+    display: block;
+}
+
+
+.font{
+    display: inline-block;
+}
+
+.roboto{
+    font-family: "Roboto", sans-serif;
+    display: inline-block;
+}
+
+.nunitoSans{
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    display: inline-block;
+
+}
+
+.shortStack{
+    font-family: "Short Stack", cursive;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.underlined{
+    text-decoration: underline;
+}
+
+.textStyle{
+    text-align: center;
+}
+
+.heading{
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 26px;
+    font-weight: 800;
+}
+
+.style{
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.aligned{
+    display: inline-block;
+    text-align: left;
+}
+
+.sub{
+    font-family: "Short Stack", cursive;
+}
+
+.subheading{
+    font-family: "Short Stack", cursive;
+    font-weight: 500px;
+    font-size: 18px;
+}
